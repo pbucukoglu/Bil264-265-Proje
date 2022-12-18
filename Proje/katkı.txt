@@ -1,0 +1,22 @@
+Mert Başar Yıldırım (211101039)(mertbasaryildirim@etu.edu.tr)
+	- Bazı modüllerde hiyerarşik olarak kullanılan FullAdder modülünü yazdı.
+	- CarryLookAhead modülünü yazdı.
+	- CarryLookAhead modülü için testbench dosyası yazdı.
+	- uart_fpga modülünü yazdı.
+	- uart_fpga modülü için gerekli "constrainsforfpga" dosyasını yazdı.
+	- Raporu yazdı. (Herkes kendi kısmıyla ilgili bilgi verdi, bu kişi word belgesinde toplayıp pdf'e çevirdi)
+
+Pelin Buçukoğlu (191101059)(pbucukoglu@etu.edu.tr)
+	- CarrySaveAdder modülünü yazdı.
+	- CarrySaveAdder modülü için testbench dosyası yazdı.
+	- Github hesabı oluşturdu.
+
+Ahmet Tanrıkulu (201201066)(ahmettanrikulu@etu.edu.tr)
+	- CSelA8 (CarrySelectAdder) modülünü yazdı.
+	- CSelA8 modülünde kullanılan 4 bitlik "RippleCarryAdder", "MUX2to1" ve "FullAdder" alt modüllerini yazdı.
+	- CSelA8 modülü için test bench dosyası yazdı.
+
+Egemen Çorbacı (211201026)(mcorbaci@etu.edu.tr)
+	- FPGA'yı ödünç aldı.
+	- RippleCarryAdder modülünü yazdı.
+	- RippleCarryAdder modülü için testbench dosyası yazdı.
